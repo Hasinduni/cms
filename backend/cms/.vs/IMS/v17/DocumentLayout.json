@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\data\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\data\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\ims.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\ims.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\ims.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\ims.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|c:\\users\\asus\\desktop\\blog-cms-assessment\\backend\\cms\\ims.services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC7C2BE1-CF06-497F-B969-7483E38FB78A}|IMS.Services\\IMS.Services.csproj|solutionrelative:ims.services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "IMS.Services\\DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T07:00:56.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Controllers\\PostController.cs",
+              "RelativeToolTip": "IMS.Services\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:47:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Services\\PostService.cs",
+              "RelativeToolTip": "IMS.Services\\Services\\PostService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:47:03.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Interfaces\\IPostService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "IMS.Services\\Interfaces\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:42:34.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "IMS.Services\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:12:36.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-11T05:58:48.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Services\\CategoryService.cs",
+              "RelativeToolTip": "IMS.Services\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T05:34:34.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "IMS.Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T05:32:09.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IMS.Services\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:53:09.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Helpers\\JwtService.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Helpers\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Helpers\\JwtService.cs",
+              "RelativeToolTip": "IMS.Services\\Helpers\\JwtService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:46:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "IMS.Services\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:36:05.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "IMS.Services\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:34:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Models\\User.cs",
+              "RelativeToolTip": "IMS.Services\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:13:19.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Models\\Post.cs",
+              "RelativeToolTip": "IMS.Services\\Models\\Post.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:12:34.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Models\\Category.cs",
+              "RelativeToolTip": "IMS.Services\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:12:14.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IMS.Services\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IMS.Services\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T06:29:47.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMS.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\IMS.Services.csproj",
+              "RelativeDocumentMoniker": "IMS.Services\\IMS.Services.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\IMS.Services.csproj",
+              "RelativeToolTip": "IMS.Services\\IMS.Services.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T06:28:58.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\appsettings.json",
+              "RelativeDocumentMoniker": "IMS.Services\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\appsettings.json",
+              "RelativeToolTip": "IMS.Services\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T05:53:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMS.Services",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\IMS.Services.csproj",
+              "RelativeDocumentMoniker": "IMS.Services\\IMS.Services.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\IMS.Services.csproj",
+              "RelativeToolTip": "IMS.Services\\IMS.Services.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T05:32:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMSDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Data\\IMSDbContext.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Data\\IMSDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Data\\IMSDbContext.cs",
+              "RelativeToolTip": "IMS.Services\\Data\\IMSDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:18:07.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Program.cs",
+              "RelativeDocumentMoniker": "IMS.Services\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BLOG-CMS-ASSESSMENT\\backend\\cms\\IMS.Services\\Program.cs",
+              "RelativeToolTip": "IMS.Services\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:13:35.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

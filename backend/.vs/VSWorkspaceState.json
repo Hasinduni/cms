@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\inventory-management-system",
+    "\\inventory-management-system\\IMS.Services",
+    "\\inventory-management-system\\IMS.Services\\Properties",
+    "\\inventory-management-system\\IMS.Web",
+    "\\inventory-management-system\\IMS.Web\\Controllers",
+    "\\inventory-management-system\\IMS.Web\\Views"
+  ],
+  "SelectedNode": "\\inventory-management-system\\IMS.Services\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IMS.Services\\IMS.Services.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IMS.Web\\IMS.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
